@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LoginApp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\Qt5.14.2\;CMake Files\..\..\..\Qt5.14.2\5.14.2\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\;CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Svg\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LoginApp">
+				<Option output="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add option="-DQT_SVG_LIB"/>
+					<Add directory="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+					<Add directory="/Users/ganjiefeng/Desktop/algorithm/LoginApp"/>
+					<Add directory="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen/include"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSql.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSql.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSvg.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSvg.framework/Headers"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 LoginApp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LoginApp/fast">
+				<Option output="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add option="-DQT_SVG_LIB"/>
+					<Add directory="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+					<Add directory="/Users/ganjiefeng/Desktop/algorithm/LoginApp"/>
+					<Add directory="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen/include"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSql.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSql.framework/Headers"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSvg.framework"/>
+					<Add directory="/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/lib/QtSvg.framework/Headers"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 LoginApp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LoginApp_autogen">
+				<Option working_dir="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 LoginApp_autogen"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/main.cpp">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/mainwindow.cpp">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/mainwindow.h">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/mainwindow.ui">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/resource.qrc">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/secdialog.cpp">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/secdialog.h">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/secdialog.ui">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen/EWIEGA46WW/qrc_resource.cpp">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen/EWIEGA46WW/qrc_resource.cpp.rule">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen/mocs_compilation.cpp">
+			<Option target="LoginApp"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/resource.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QMYSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Svg/Qt5SvgConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Svg\"/>
+		</Unit>
+		<Unit filename="/Users/ganjiefeng/Desktop/algorithm/LoginApp/../../../Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt5.14.2\5.14.2\clang_64\lib\cmake\Qt5Svg\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
