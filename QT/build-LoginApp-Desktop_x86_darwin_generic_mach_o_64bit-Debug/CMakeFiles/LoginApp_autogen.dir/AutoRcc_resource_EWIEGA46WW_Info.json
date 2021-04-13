@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/ganjiefeng/Desktop/algorithm/C_plus_plus_Project/QT/LoginApp",
+	"CMAKE_SOURCE_DIR" : "/Users/ganjiefeng/Desktop/algorithm/C_plus_plus_Project/QT/LoginApp",
+	"INCLUDE_DIR" : "/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/LoginApp_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/ganjiefeng/Desktop/algorithm/C_plus_plus_Project/QT/LoginApp/img/login.svg"
+	],
+	"LOCK_FILE" : "/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/LoginApp_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/Users/ganjiefeng/Qt5.14.2/5.14.2/clang_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/ganjiefeng/Desktop/algorithm/build-LoginApp-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/LoginApp_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/ganjiefeng/Desktop/algorithm/C_plus_plus_Project/QT/LoginApp/resource.qrc",
+	"VERBOSITY" : 0
+}
