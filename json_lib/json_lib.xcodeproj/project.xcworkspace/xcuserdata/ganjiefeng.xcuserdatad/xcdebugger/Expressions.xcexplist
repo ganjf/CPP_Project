@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "test_access_array(char const*, char const*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "v.u.array.e[4]">
+            </PersistentString>
+            <PersistentString
+               value = "v.u.array.len">
+            </PersistentString>
+            <PersistentString
+               value = "v.u.array.e[5]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "test_access_number(char const*, char const*):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_stringify_number(lept_value const*, char*, unsigned long, char const*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_array(lept_context*, lept_value*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sizeof(lept_value)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(temp)">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e[3].u.n">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e[2]">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e[1].u.array.e[1]">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e[1]">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e[0]">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(v)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_stringify_literal(lept_value const*, char*, unsigned long, char const*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "strlen(s)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_array(lept_context*, lept_value*, char const*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "v-&gt;u.array.e[1]">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.len * sizeof(lept_value)">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.len">
+            </PersistentString>
+            <PersistentString
+               value = "v-&gt;u.array.e[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_set_string(lept_value*, char const*, unsigned long):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_object_value(lept_context*, lept_member*):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "test_access_string():main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_number(lept_context*, lept_value*):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_literal(lept_context*, lept_value*, lept_type, char const*, char const*):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_stringify_literal(lept_value const*, char*, char const*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sizeof(p.c_str())">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(char)">
+            </PersistentString>
+            <PersistentString
+               value = "strlen(s)">
+            </PersistentString>
+            <PersistentString
+               value = "p.size()">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(s) + p.size() * sizeof(char)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(s)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_object(lept_context*, lept_value*, char const*):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_number(lept_context*, lept_value*, char const*):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_string(lept_context*, lept_value*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "c-&gt;str.c_str()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_encode_utf8(lept_context*, unsigned int&amp;):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "static_cast&lt;char&gt;(0xF0 | ((u &gt;&gt; 18) &amp; 0xFF))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_stringify_extend(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;&amp;, char*, unsigned long, char const*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "v.u.array.e[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lept_parse_hex4(char const*, unsigned int&amp;):leptjson.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "lept_stringify_array(lept_value const*, char*, unsigned long, char const*):leptjson.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "s2[14]">
+            </PersistentString>
+            <PersistentString
+               value = "s2[10]">
+            </PersistentString>
+            <PersistentString
+               value = "p.substr(0, 2)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
