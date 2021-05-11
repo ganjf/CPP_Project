@@ -148,16 +148,16 @@ int main() {
     test_access_literal("truee", "true", LEPT_TRUE, "\0");
     test_access_literal("false", "false", LEPT_FALSE, "\0");
     test_access_literal("null ", "null", LEPT_NULL, "\0");
-    
+
     test_access_number("2324", "\0");
     test_access_number("0.2324", "\0");
     test_access_number("0.456 ", "\0");
     test_access_number("0x2324 ", "\0");
-    
+
     test_access_string("\"\\u52B2h\\tworld\"\0", "\0");
     test_access_string("\"world\"", "\0");
     test_access_string("\"\\u4fa0h\\tworld\"  ,", ",");
-    
+
     test_access_array("[2,3]", "\0");
     test_access_array("[[],[3,4]]", "\0");
     test_access_array("[\"abc\", \"cc\", \"sd\", 2.24242]", "\0");

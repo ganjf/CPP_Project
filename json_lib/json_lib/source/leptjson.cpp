@@ -350,7 +350,7 @@ int lept_parse_object(lept_context* c, lept_value* v, const char* delimeter){
         }else if (*c->json == '}'){
             c->json ++;
             lept_parse_whitespace(c);
-            if (*c->json++ == *delimeter){
+            if (*c->json == *delimeter){
                 return LEPT_PARSE_OK;
             }else{
                 c->json = p;
